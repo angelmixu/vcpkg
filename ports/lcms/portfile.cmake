@@ -7,8 +7,8 @@ endif()
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO mm2/Little-CMS
-    REF b5b36cd062c968fd3e1c5c0c37f9392bc7a47ddf
-    SHA512 094e3d0f87f85943c3aade31eadb8b456252260ccb91fad1b8628164c7084b593e57a283ab265a8cfcb81f8b10e2a285cdb3c4b4246d39bc19cb95945d01f5f5
+    REF ea174b2f38b0cb782c61a603ca4117d4b2147cd7
+    SHA512 000f85c52b9d823c39d58fef1aec1df8a1e81a2d6e8752f24daf08c0638e13b1e4435220be0e5aab26620c8ba0eefa2bea0596da6681daae05bea81ec89fccc2
     HEAD_REF master
     PATCHES
         remove_library_directive.patch
